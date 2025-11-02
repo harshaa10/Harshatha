@@ -3,7 +3,7 @@
   <h1>Projects</h1>
 
   <div class="project-card">
-    <div class="project-title">🧬 Non-coding Variant Interpretation</div>
+    <div class="project-title">Non-coding Variant Interpretation</div>
     <div class="project-duration">Ongoing</div>
     <div class="project-description">
       I am currently developing an aggregator tool for non-coding variant interpretation.
@@ -14,7 +14,7 @@
   </div>
 
   <div class="project-card">
-    <div class="project-title">🧫 DNA Methylation Analysis of Prostate Cancer</div>
+    <div class="project-title"> DNA Methylation Analysis of Prostate Cancer</div>
     <div class="project-duration">Feb – Jul 2024</div>
     <div class="project-description">
       Publicly available GEO methylation array datasets from prostate cancer patients were
