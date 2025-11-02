@@ -1,8 +1,4 @@
----
-layout: base
-title: Projects
-permalink: /projects/
----
+
 
 Non-coding Variant Interpretation: An aggregator tool for deleteriousness scoring
 Ongoing
