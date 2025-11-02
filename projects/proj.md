@@ -1,18 +1,30 @@
+<div class="projects-container">
 
+  <h1>Projects</h1>
 
-Non-coding Variant Interpretation: An aggregator tool for deleteriousness scoring
-Ongoing
+  <div class="project-card">
+    <div class="project-title">🧬 Non-coding Variant Interpretation</div>
+    <div class="project-duration">Ongoing</div>
+    <div class="project-description">
+      I am currently developing an aggregator tool for non-coding variant interpretation.
+      It integrates multiple scoring algorithms (many optimized for hg38) and accounts for
+      tissue-specific gene expression. The system combines these predictive metrics to
+      estimate variant deleteriousness with improved biological context.
+    </div>
+  </div>
 
-I am currently developing an aggregator tool for non-coding variant interpretation.
-There are multiple scoring algorithms for scoring the variants and only a few of those are available for hg38 human genome. This tool also considers the tissue specificity of the variant based on the gene expression analysis. This scoring system considers all the underlying factors in combination with the predictions by investigator tools and scores a variant, giving information about its deleteriousness.
+  <div class="project-card">
+    <div class="project-title">🧫 DNA Methylation Analysis of Prostate Cancer</div>
+    <div class="project-duration">Feb – Jul 2024</div>
+    <div class="project-description">
+      Publicly available GEO methylation array datasets from prostate cancer patients were
+      analyzed to identify differentially methylated regions (DMRs). I identified five genes
+      showing consistent methylation differences, validated using TCGA pan-cancer data.
+      These DMRs may represent potential prostate-specific biomarkers.
+    </div>
+  </div>
 
-
-DNA methylation analysis of prostate cancer to identify potential biomarkers
-Feb-Jul 2024
-
-I used publically available GEO methylation array datasets from prostate cancer patients and analyzed differentially methylated regions (DMRs) using python packages. I identified 5 unique genes which are differentially methylated in prostate cancer and validated this using the TCGA pan-cancer cohort. These DMRs can be potential prostate specific biomarkers, provided they analyzed in a larger cohort and are functionally validated.
-
-
+</div>
 	
 
 	
