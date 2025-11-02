@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Projects
+permalink: /projects/
 ---
-{% include_relative proj.md %}
-
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/projects.css">
