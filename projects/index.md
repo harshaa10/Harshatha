@@ -2,4 +2,4 @@
 layout: page
 title: Projects
 ---
-{% include_relative int.md %}
+{% include_relative proj.md %}
